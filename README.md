@@ -22,3 +22,7 @@ Useful for:
 - Avoiding presenting a raw Python script to your boss
 
 [Streamlit website](https://streamlit.io)
+
+Example:
+
+![](streamlit_example.png)

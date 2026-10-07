@@ -1,7 +1,7 @@
 from datetime import datetime
 import streamlit as st
 
-st.title("Editar no es enviar, Ok?")
+st.title("Ejemplo de app_03")
 st.caption("Última ejecución: " + datetime.now().isoformat(timespec="microseconds"))
 with st.form("churn_form"):
     tenure = st.number_input("Antigüedad (meses)", min_value=0, max_value=120, value=2, step=1)
