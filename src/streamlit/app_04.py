@@ -1,5 +1,13 @@
+import sys
+from pathlib import Path
+
 import streamlit as st
-from model import predict
+
+project_root = Path(__file__).resolve().parents[2]
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
+from demo_streamlit_s5_20261007_200403_272110.model import predict
 
 st.set_page_config(page_title="S5 · Churn sintético")
 st.title("¿Qué cliente podría darse de baja?")
