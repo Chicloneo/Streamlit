@@ -9,7 +9,13 @@ You can run any of the scripts from `app_01.py` to `app_04.py` (and the mentione
 ## How to run the code
 
 ```bash
-uv run streamlit run app_01.py
+uv run streamlit run src/s5_streamlit_churn_ejemplos/app_01.py
+```
+
+Para ejecutar la app que utiliza el modelo:
+
+```bash
+uv run streamlit run src/s5_streamlit_churn_ejemplos/app_04.py
 ```
 
 You can modify the script, and the website will show a "Rerun" button to display your saved changes.
