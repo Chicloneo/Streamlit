@@ -1,6 +1,6 @@
 # Streamlit web app demos
 
-This repository contains brief examples of the Python Streamlit library.
+This repository contains brief examples of the Python Streamlit library. `web_st.py` is the main example.
 
 You can run any of the scripts from `app_01.py` to `app_04.py`. Each of them demonstrates different applications of Streamlit. You can easily follow the code and see which widgets (such as checkboxes, buttons, etc.) Streamlit displays.
 
