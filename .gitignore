@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-web_st.py
+#web_st.py
 S5_Streamlit_guion_Churn.ipynb
