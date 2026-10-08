@@ -2,7 +2,7 @@
 
 This repository contains brief examples of the Python Streamlit library. `web_st.py` is the main example.
 
-You can run any of the scripts from `app_01.py` to `app_04.py`. Each of them demonstrates different applications of Streamlit. You can easily follow the code and see which widgets (such as checkboxes, buttons, etc.) Streamlit displays.
+You can run any of the scripts from `app_01.py` to `app_04.py` (and the mentioned above). Each of them demonstrates different applications of Streamlit. You can easily follow the code and see which widgets (such as checkboxes, buttons, etc.) Streamlit displays.
 
 `app_04.py` calls a mock LLM, which is located in `demo_streamlit_s5_20261007_200403_272110`.
 
