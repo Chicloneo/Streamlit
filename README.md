@@ -25,4 +25,4 @@ Useful for:
 
 Example:
 
-![](streamlit_example.png)
+![](demo_streamlit_s5_20261007_200403_272110/streamlit_example.png)
